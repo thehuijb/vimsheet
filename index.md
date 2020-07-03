@@ -103,6 +103,9 @@ Type any of these while some text is selected to apply the action
 * `:tabe` - Make a new tab
 * `gt` - Go to the next tab
 * `gT` - Go to the previous tab
+* `gf` - Go to file
+* `gd` - Go to definition
+* `gh` - Go show hoverinfo
 * Advanced
     * `:vsp` - vertically split windows
     * `ctrl+ws` - Split windows horizontally
