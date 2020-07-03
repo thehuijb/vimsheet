@@ -7,3 +7,5 @@ description: A Great Vim Cheat Sheet
 owner:
   name: Chase Lambert
 
+
+theme: jekyll-theme-cayman
