@@ -1,11 +1,11 @@
 name: White Paper
 markdown: kramdown
-url: http://vimsheet.com
+url: https://thehuijb.github.io/vimsheet
 description: A Great Vim Cheat Sheet
 
 # Owner/author information
 owner:
-  name: Chase Lambert
+  name: Serge Huijben
 
 
 theme: jekyll-theme-cayman
